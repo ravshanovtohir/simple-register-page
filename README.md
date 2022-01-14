@@ -1,0 +1,1 @@
+# simple-register-page
